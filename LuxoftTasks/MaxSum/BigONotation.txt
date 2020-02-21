@@ -1,0 +1,3 @@
+﻿
+Big O notation : O(n)
+n is the number of items in the array 
